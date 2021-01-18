@@ -189,7 +189,6 @@ class TimeTable extends Component {
       seTY11: null,
       allCR11: [],
       cR11:null,
-      cRd11:null,
     };
   }
   async componentDidMount() {
